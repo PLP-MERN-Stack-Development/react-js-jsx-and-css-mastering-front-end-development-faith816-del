@@ -51,7 +51,7 @@ src/
 1. Clone the repository:  
 ```bash
 git clone <https://github.com/PLP-MERN-Stack-Development/react-js-jsx-and-css-mastering-front-end-development-faith816-del.git>
-cd <repo-folder>
+cd <cd react-js-jsx-and-css-mastering-front-end-development-faith816-del>
 npm install
 npm run dev
 
