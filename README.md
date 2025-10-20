@@ -72,5 +72,5 @@ Mobile Dark Mode:
 
 ## Deployment
 
-- Deployed using **Vercel / Netlify / GitHub Pages** (replace with your URL):  
-`https://your-app-link.com`
+- Deployed using  GitHub Pages** Had to create my own repo first before pushing it to github then run these commands (npm run build,npm run deploy)  
+https://faith816-del.github.io/week3-react-tailwind/
